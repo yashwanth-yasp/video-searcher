@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=video_searcher
+Exec=video_searcher
+Icon=com.example.video_searacher
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

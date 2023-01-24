@@ -1,0 +1,7 @@
+data/com.example.video_searacher.desktop.in
+data/com.example.video_searacher.appdata.xml.in
+data/com.example.video_searacher.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+

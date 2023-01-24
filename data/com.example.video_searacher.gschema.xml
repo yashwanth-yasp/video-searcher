@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="video_searcher">
+	<schema id="com.example.video_searacher" path="/com/example/video_searacher/">
+	</schema>
+</schemalist>
